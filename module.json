@@ -1,0 +1,11 @@
+{
+    "name": "Red-and-Gray-Party-Window-Persona-5-inspired",
+    "category": "client",
+    "description": "Custom HP/MP bars, laurels, combat icon and stun/debuff effect. All accents are in red.",
+    "author": "Raven",
+    "options": {
+        "guiName": "UI: Red and Gray Party Window Persona 5 inspired",
+        "niceName": "Red and Gray Party Window Persona 5 inspired"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Red-and-Gray-Party-Window-Persona-5-inspired/master/"]
+}
